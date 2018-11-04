@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MVVM-SAMPLE</string>
+    <string name="released_on">Released in </string>
+    <string name="votes_count">Votes : </string>
+</resources>
